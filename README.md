@@ -1,11 +1,10 @@
-## Description
-Bridge Race clone.
+# Bridge Race Clone
 
-## Download
+### Download
 
 Here is a [link](https://github.com/ozeecode/bridge-race-clone/releases) for the download apk.
 
-## Gameplay Video
+### Gameplay Video
 
 [Watch on YouTube](https://youtu.be/f7Tztc-f5c0)
 
