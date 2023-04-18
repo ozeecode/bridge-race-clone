@@ -1,5 +1,7 @@
 # Bridge Race Clone
 
+Characters from Kenney https://kenney.nl/
+
 ### Download
 
 Here is a [link](https://github.com/ozeecode/bridge-race-clone/releases) for the download apk.
