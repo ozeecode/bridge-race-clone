@@ -36,7 +36,6 @@ public abstract class Character : MonoBehaviour
         skinnedMeshRenderer.material.SetColor(GameStatic.BASE_COLOR, Color);
         agent.isStopped = false;
         IsInit = true;
-
     }
 
     public virtual void Stop()
